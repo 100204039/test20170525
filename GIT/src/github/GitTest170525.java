@@ -4,7 +4,10 @@ public class GitTest170525 {
 
 	public static void main(String[] args) {
 		System.out.println("First test");
+		System.out.println("Lynn test1");
 		System.out.println("Merge test");
+
+
 	}
 
 }
