@@ -6,8 +6,6 @@ public class GitTest170525 {
 		System.out.println("First test");
 		System.out.println("Lynn test1");
 		System.out.println("Merge test");
-
-
 	}
 
 }
